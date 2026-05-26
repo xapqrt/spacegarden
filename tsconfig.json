@@ -1,0 +1,25 @@
+
+{
+"compilerOptions": {
+
+    "target": "ES6",
+    "module": "commonjs",
+    "lib": ["DOM", "ES2020"],
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResoltuion": "node",
+
+    "esmoduleInterop": true,
+
+    "skipLibCheck": true,
+
+    "forceConsistentCasingInFileNames": true,
+
+},
+
+
+
+    "include" : ["**/*.ts"]
+
+    //wtf was that 
+}
