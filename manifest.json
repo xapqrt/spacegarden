@@ -1,0 +1,10 @@
+{
+
+    "id": "space-repetition-garden",
+    "name": "Spaced Repition garden",
+    "version": "0.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Turn notes into flashcards and watch them grown in an interactive, visual garden leaf view,",
+    "isDesktopOnly": false
+}
+
